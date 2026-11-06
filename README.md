@@ -19,7 +19,7 @@ Older builds without the updater need this installer once. No GitHub account or 
 - Fictional Linux userland, sessions, routes, evidence and a reactive defender.
 - Original music, mechanical keyboard feedback, effects and optional local voice narration.
 
-The preview contains one investigation mission. All targets are fictional; commands operate on the game simulation.
+The campaign contains eleven investigations across five acts: an opening live-system mission and ten authorized forensic export cases, with a casebook, recurring contacts, evidence correlation and disclosure-dependent outcomes. All targets are fictional; commands operate on the game simulation.
 
 ## Version rule
 
